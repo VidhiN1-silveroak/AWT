@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  h3{
+    color: darkgreen;
+  }
+  p {
+    color: red;
+    font-size: larger;
+  }
